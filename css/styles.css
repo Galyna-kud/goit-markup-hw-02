@@ -54,6 +54,10 @@ ul {
     color: #404BBF;
 }
 
+address {
+    font-style: normal;
+}
+
 .address-link {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
@@ -62,7 +66,7 @@ ul {
     letter-spacing: 0.02em;
     color: #434455;
     text-decoration: none;
-    font-style: normal;
+    
 }
 
 .address-link:hover,
@@ -105,7 +109,7 @@ ul {
     background-color: #404BBF;
 }
 
-.title-h3 {
+.title-three {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -125,6 +129,10 @@ ul {
 
 .section-third {
     background-color: #F4F4FD;
+}
+
+.section-third-ul {
+    background-color: #FFFFFF;
 }
 
 .title-third {
@@ -169,7 +177,7 @@ ul {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -180,7 +188,7 @@ ul {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
