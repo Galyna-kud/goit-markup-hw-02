@@ -54,9 +54,11 @@ ul {
     color: #404BBF;
 }
 
-address {
+.address {
     font-style: normal;
 }
+
+
 
 .address-link {
     font-family: 'Roboto', sans-serif;
@@ -131,7 +133,7 @@ address {
     background-color: #F4F4FD;
 }
 
-.section-third-ul {
+.section-third-li {
     background-color: #FFFFFF;
 }
 
